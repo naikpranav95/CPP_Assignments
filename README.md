@@ -1,3 +1,3 @@
 # CPP_Assignments
-1.TollBooth Assignment\n
+1.TollBooth Assignment
 2.String Assignment
